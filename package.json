@@ -1,6 +1,6 @@
 {
   "main": "./lib/oniguruma.js",
-  "name": "@soldair/oniguruma-node10",
+  "name": "@soldair/oniguruma",
   "description": "oniguruma regular expression library",
   "version": "4.2.4",
   "licenses": [
