@@ -21,5 +21,5 @@ bool OnigStringContext::IsSame(Handle<String> other) const {
 }
 
 OnigStringContext::~OnigStringContext() {
-    v8String.Reset();
+    v8String.Dispose();
 }
